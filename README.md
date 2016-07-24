@@ -1,4 +1,8 @@
-# ga1ya.github.io
+# ga1ya.github.io路过麻烦star
+#更新
+
+一个用于app指向性功能高亮的库
+https://github.com/hongyangAndroid/Highlight
 
 # ga1ya的干货分享
 
@@ -25,7 +29,7 @@
 - [测试及调试](#测试及调试)
 - [动态更新热更新](#动态更新热更新)
 - [消息推送与及时通讯](#消息推送与及时通讯)
-- [完整项目](#完整项目) 
+- [完整项目](#完整项目)
 - [插件](#插件)
 - [出名框架](#出名框架)
 - [其他](#其他)
@@ -38,7 +42,7 @@
 - [GitHub开源库排名一百的简单介绍](#github开源库排名一百的简单介绍)
 
 ========
-### 具体内容 
+### 具体内容
 ##### UI
  * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - MaterialDesignCenter改名为Awesome-MaterialDesign，优化了布局，新增了不少库。
  * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - ui库，非常多的ui及特效。
@@ -74,9 +78,9 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [PinnedListView](http://www.eoeandroid.com/thread-567853-1-1.html) - PinnedListView悬浮Head效果修改，[github pinned-section-listview](https://github.com/beworker/pinned-section-listview)。
  * [APP启动引导页](http://www.eoeandroid.com/thread-564018-1-1.html) - APP应用中最常用的APP启动引导页，常见的4种引导项目方式：splash，viewpage，viewflipper，scrollview。
  * [GuideHelper](https://github.com/LuckyJayce/GuideHelper) - 实现Android新手引导页，可以在提示也绘制实际的view，在view的上下左右位置添加提示信息的图片。
- * [AwesomeText](https://github.com/JMPergar/AwesomeText) - 简化TextViews中Spans使用的库。 
- * [dialogplus](https://github.com/orhanobut/dialogplus) - 一个简单容易使用的对话框——DialogPlus。 
- * [material-dialogs](https://github.com/afollestad/material-dialogs) - Material Design风格Dialogs。 
+ * [AwesomeText](https://github.com/JMPergar/AwesomeText) - 简化TextViews中Spans使用的库。
+ * [dialogplus](https://github.com/orhanobut/dialogplus) - 一个简单容易使用的对话框——DialogPlus。
+ * [material-dialogs](https://github.com/afollestad/material-dialogs) - Material Design风格Dialogs。
  * [CardView](https://github.com/chiemy/CardView) - 3d卡片效果-国人。
  * [FilterMenu](https://github.com/linroid/FilterMenu) - 这是一个自定义的圆形菜单，效果非常酷。
  * [GridPasswordView](https://github.com/Jungerr/GridPasswordView) - 类似微信，支付宝支付时候的输入密码页面效果，带格子的密码输入框。
@@ -130,7 +134,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [android-satellite-menu](https://github.com/siyamed/android-satellite-menu) - 点击主按钮，会弹出多个围绕着主按钮排列的子按钮，从而形成一个弹出式菜单。子按钮弹出和消失的动画效果都很棒。这种弹出式菜单按钮应用在Path app中。
  * [ArcMenu](https://github.com/daCapricorn/ArcMenu) - 实现弹出式按钮群（菜单）。点击主按钮，会在住按钮旁边弹出多个按钮（菜单）。弹出的按钮有两种排列形式，一种是围绕着主按钮成圆弧形排列，一种是和主按钮并排成一字型排列， 仿Path 2.0 (for iOS)。
  * [Radial Menu Widget](http://d.apkbus.com/android/Radial-Menu-Widget/52405aca6803fa2822000002) - 实现各种圆形或者半圆形菜单，以及圆形进度条。
- * [android-circlebutton](https://github.com/markushi/android-circlebutton) - 圆形按钮，有动画点击效果。 
+ * [android-circlebutton](https://github.com/markushi/android-circlebutton) - 圆形按钮，有动画点击效果。
  * [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) - 卫星菜单。
  * [ElasticDownload](https://github.com/Tibolte/ElasticDownload) -  挺酷的下载进度条。
  * [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - 仿 Tumblr 的 Android 可拖拽蛇形动画菜单。
@@ -151,7 +155,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [TwitterCover-Android](https://github.com/cyndibaby905/TwitterCover-Android) - Twitter Android客户端的下拉封面模糊效果。
  * [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - 实现整个layout下拉刷新，没有加载更过，[Demo](https://github.com/android-cn/android-open-project-demo/tree/master/android-ultra-pull-to-refresh-demo)， [源码分析](http://codekk.com/open-source-project-analysis/detail/Android/Grumoon/android-Ultra-Pull-To-Refresh%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)。
  * [StikkyHeader](https://github.com/carlonzo/StikkyHeader) - 【Android控件源码：头部固定的控件列表效果】这是一个可以支持头部固定的控件列表功能，源码StikkyHeader，StikkyHeader是一个可以在滚动的时候将头部固定的控件，还可以将动画效果和StikkyHeader一起使用，api非常简单， 支持ListView,RecyclerView,ScrollView。[支持2.3一下设备使用的StikkyHeader](https://github.com/yangwuan55/StikkyHeader)
- * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 实现了模仿微信眼睛下拉效果，源码PullDownListView，下拉刷新，上拉加载，模仿微信眼睛。 
+ * [PullDownListView](https://github.com/guojunyi/PullDownListView) - 实现了模仿微信眼睛下拉效果，源码PullDownListView，下拉刷新，上拉加载，模仿微信眼睛。
  * [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) - 又一个下拉刷新的实现，水滴效果。
  * [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) - 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位，目前已经实现了四种下拉刷新效果:新浪微博下拉刷新风格、慕课网下拉刷新风格、美团下拉刷新风格、类似qq好友列表黏性下拉刷新风格。
  * [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Phoenix) - 提供一个简单可以自定义的下拉刷新实现。
@@ -192,7 +196,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [Android Wheel](https://code.google.com/archive/p/android-wheel) - 带有刻度的旋转器：日历、三级联动。
  * [CharacterPickerView](https://github.com/alafighting/CharacterPickerView) - 可实现三级联动的选择器，高仿iOS的滚轮控件,可实现单项选择，并支持一二三级联动效果。
  * [Highlight](https://github.com/hongyangAndroid/Highlight) - Highlight一款可应用于 Android 应用上的指向性功能高亮的库, 可以快速的给应用添加上应用引导的效果。
- * [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) - 支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案 。 
+ * [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) - 支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案 。
  * [CleverRecyclerView](https://github.com/luckyandyzhang/CleverRecyclerView) - 是一个基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性。
  * [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview) - 实现了类似 Google Photos 风格的图片多选效果。
  * [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) - 一个Android TabLayout库,目前有两个TabLayout:SlidingTabLayout、CommonTabLayout。
@@ -231,11 +235,11 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
 #### 动画
  * [Android应用开发之所有动画使用详解 ](http://blog.csdn.net/yanbober/article/details/46481171) - Android应用开发之所有动画使用详解。
  * [动画特效大全](http://www.eoeandroid.com/thread-562739-1-1.html) - Android 动画特效大全。
- * [SwitchLayout](http://blog.csdn.net/jay100500/article/details/42227365) - 国内开发者， Android的Activity切换动画特效库SwitchLayout，视图切换动画库，媲美IOS。 
+ * [SwitchLayout](http://blog.csdn.net/jay100500/article/details/42227365) - 国内开发者， Android的Activity切换动画特效库SwitchLayout，视图切换动画库，媲美IOS。
  * [ActivityOptionsICS](https://github.com/tianzhijiexian/ActivityOptionsICS) - 一个低版本activity动画兼容库——ActivityOptionsICS，可以很好的实现MD的动画效果。
  * [SwipeBack](https://github.com/liuguangqiang/SwipeBack) - 一个可以通过手势返回到上一个Activity的开源库，支持上下左右四个方向返回，支持多个View为Child。
  * [SpringIndicator](https://github.com/chenupt/SpringIndicator) - 模仿Morning Routine的引导页效果SpringIndicator；基于模仿红点拖拽的Demo实现：[BezierDemo](https://github.com/chenupt/BezierDemo)；sample中使用到 快速创建ViewPager和ListView等的第三方库：[MultipleModel](https://github.com/chenupt/MultipleModel)。
- * [XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim) - 国内开发者， 华丽酷炫欢迎引导界面 动画没有之一。 
+ * [XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim) - 国内开发者， 华丽酷炫欢迎引导界面 动画没有之一。
  * [Material-Animations](https://github.com/lgvalle/Material-Animations) - Material风格动画，可以定义两个Activity之间的动画。
  * [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView) - android-shapeLoadingView实现高仿新版58 加载动画，loading。
  * [一个绚丽的loading](http://blog.csdn.net/tianjian4592/article/details/44538605) - 一个绚丽的loading动效分析与实现。
@@ -351,7 +355,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [logger](https://github.com/orhanobut/logger) - 一个简单、漂亮、功能强大的Android日志程序。
  * [stf](https://github.com/openstf/stf) - WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行，[使用说明](https://testerhome.com/topics/2988) 。
  * [DecompileApk](https://github.com/MasonLiuChn/DecompileApk) - 一键反编译 APK，输出所有反编译后的代码、资源，使用方便。
- * [AppCrashTracker](https://github.com/macroday/AppCrashTracker) - 一个异常追踪器，可以生成一个 JSON 格式的日志并可以上传到服务器。 
+ * [AppCrashTracker](https://github.com/macroday/AppCrashTracker) - 一个异常追踪器，可以生成一个 JSON 格式的日志并可以上传到服务器。
 
 ========
 #### 动态更新热更新
@@ -413,7 +417,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
 ========
 ### 出名框架
  * [ButterKnife](https://github.com/JakeWharton/butterknife) - ButterKnife是一个专注于Android系统的View注入框架，让你从此从这些烦人臃肿的代码中解脱出来，[ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
- * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。。 
+ * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。。
  * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
  * [retrofit](https://github.com/square/retrofit/tree/version-one) - retrofit将 REST API 转换为 Java 接口。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
  * [Dagger2](https://github.com/google/dagger) - Dagger 2 是著名的依赖注入库 [Dagger](https://github.com/square/dagger) 的继承者，我们强烈推荐它。[文档](http://google.github.io/dagger/)，[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
@@ -430,12 +434,12 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [Android-Package-Channel](https://github.com/s1rius/Android-Package-Channel) - 美团网做的把Android多渠道打包工具，打包时间缩短到一分钟，python脚本。
  * [fast-apk-packaging](http://www.race604.com/fast-apk-packaging/) - Android不需要重新编译打渠道包。
  * [android_gradle_script](https://github.com/lihei12345/android_gradle_script) - gradle批量打包脚本，用txt配置一下，就可以支持多个渠道打包，适合国内这种动不动上百个渠道包的环境。目前有个问题，一次打包脚本超过80个就会GC问题。
- * [BatchPackApk](https://github.com/MasonLiuChn/BatchPackApk) - 免签名直接打包工具。 
+ * [BatchPackApk](https://github.com/MasonLiuChn/BatchPackApk) - 免签名直接打包工具。
  * [Android多渠道打包工具Gradle插件](https://github.com/mcxiaoke/gradle-packer-plugin/blob/master/readme.md) - Android多渠道打包工具Gradle插件。
  * [Gradle-Plugin-User-Guide-Chinese-Verision](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/) - Gradle插件使用指南中文版。
- * [gradle-guide.books](http://gradle-guide.books.yourtion.com/) - Android Gradle 插件中文指南（GitBook）。 
+ * [gradle-guide.books](http://gradle-guide.books.yourtion.com/) - Android Gradle 插件中文指南（GitBook）。
  * [Android-package_tool](https://github.com/ahui2823/package_tool) - 该工程用于编译多渠道Android应用，替换相应的标签，然后重新打包，用perl脚本实现。
- * [兰贝壳儿](http://www.orchidshell.com/) - Android多渠道打包解决方案(兰贝壳儿)，eclipse插件。 
+ * [兰贝壳儿](http://www.orchidshell.com/) - Android多渠道打包解决方案(兰贝壳儿)，eclipse插件。
  * [Algorithms](https://github.com/pedrovgs/Algorithms) - 常见算法问题的Java实现。
  * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - 一个常见设计模式的java实现。
  * [PreferenceInjector](https://github.com/denley/preferencebinder) - SharedPreference注入开源库，SharedPreference key与某个变量绑定、监听key变化、初始化key都可以通过注解完成。
@@ -447,9 +451,9 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper) - 切换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
  * [android-best-practices](https://github.com/futurice/android-best-practices) - android最佳实践
  * [Android最佳实践](http://android.jobbole.com/80684/) - 安卓最佳实践（1）：安卓开发--中文。
- * [Android最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md) - 从Futurice公司Android开发者中学到的经验。 遵循以下准则，避免重复发明轮子。若您对开发iOS或Windows Phone 有兴趣， 请看iOS Good Practices 和 Windows client Good Practices 这两篇文章。 
- * [如何安装ACRA](http://blog.csdn.net/chen52671/article/details/44751347) - 如何安装ACRA-一个Android应用Crash跟踪系统—在自己的服务器上。 
- * [Android ocr识别文字介绍](http://blog.csdn.net/love_xsq/article/details/44616925) - Android ocr识别文字介绍 。 
+ * [Android最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md) - 从Futurice公司Android开发者中学到的经验。 遵循以下准则，避免重复发明轮子。若您对开发iOS或Windows Phone 有兴趣， 请看iOS Good Practices 和 Windows client Good Practices 这两篇文章。
+ * [如何安装ACRA](http://blog.csdn.net/chen52671/article/details/44751347) - 如何安装ACRA-一个Android应用Crash跟踪系统—在自己的服务器上。
+ * [Android ocr识别文字介绍](http://blog.csdn.net/love_xsq/article/details/44616925) - Android ocr识别文字介绍 。
  * [DaVinci](https://github.com/florent37/DaVinci) - DaVinci是一个适用于Android Wear平台的图片下载和缓存library。
  * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) - Android 一些重要知识点解析整理 。
  * [AppStoreLibrary](https://github.com/mcsong/AppStoreLibrary) - 检测是否在appstore安装了应用，搜索应用。
@@ -481,7 +485,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae) - 最详细的 Toolbar 开发实践总结。
  * [最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a) - 最详细的 NavigationDrawer 开发实践总结。
  * [MVVM 模式介绍](https://github.com/xitu/gold-miner/blob/master/TODO%2Fapproaching-android-with-mvvm.md) - MVVM 模式介绍。
- * [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/) - 选择恐惧症的福音！教你认清MVC，MVP和MVVM。 
+ * [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/) - 选择恐惧症的福音！教你认清MVC，MVP和MVVM。
  * [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e) - RecyclerView技术栈。
  * [awesome-github](https://github.com/AntBranch/awesome-github)  - awesome-github:收集这个列表，只是为了更好地使用亲爱的GitHub。
  * [Android多渠道打包这样做才酸爽](http://www.simlinux.com/archives/1689.html) - Android多渠道打包这样做才酸爽。
@@ -490,7 +494,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
 ========
 ### 收集android上开源的酷炫的交互动画和视觉效果
  * [酷炫的交互动画和视觉效果](https://github.com/Rano1/Interactive-animation/blob/master/README.md) - 描述：收集android上开源的酷炫的交互动画和视觉效果。1.交互篇，2.视觉篇。
- * [Android酷炫实用的开源框架（UI框架）](http://www.androidchina.net/1992.html) - Android酷炫实用的开源框架（UI框架）25个。 
+ * [Android酷炫实用的开源框架（UI框架）](http://www.androidchina.net/1992.html) - Android酷炫实用的开源框架（UI框架）25个。
 
 
 交互篇
@@ -501,7 +505,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
 
 2.FoldableLayout
 项目介绍：折叠展开点击的ITEM
-项目地址：https://github.com/alexvasilkov/FoldableLayout 
+项目地址：https://github.com/alexvasilkov/FoldableLayout
 
 3.android-flip
 项目介绍：折叠翻页效果
@@ -642,7 +646,7 @@ DEMO演示：
 ### UI资源
 * [fontawesome](http://fontawesome.io/icons/) - Font-Awesome图标。
 * [material-design-responsive-design](http://www.uisdc.com/material-design-responsive-design) - 深聊Material Design复杂响应式设计，[comprehensive-material-design-note](http://www.uisdc.com/comprehensive-material-design-note) - 帮你全面彻底搞定Material design的学习笔记。
-* [Iconics](https://github.com/mikepenz/Android-Iconics) - 这是一个可以让你在你的项目中使用几乎任何字体图标的库。默认包含 FontAwesome 和 Material Design Icons 还包含 Meteocons 插件。你甚至可以添加任何你自定义的字体图标（typeface）。 
+* [Iconics](https://github.com/mikepenz/Android-Iconics) - 这是一个可以让你在你的项目中使用几乎任何字体图标的库。默认包含 FontAwesome 和 Material Design Icons 还包含 Meteocons 插件。你甚至可以添加任何你自定义的字体图标（typeface）。
 
 
 ========
@@ -686,12 +690,12 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 
 ##### 中文开发博客列表
  * [donal-tong](http://donal-tong.github.io/) - Android [ListView or GridView for ScrollView](http://donal-tong.github.io/blog/2014/05/28/listview-for-scrollview/)。
- * [Longdw ](http://www.longdw.com/listview-category-getitemviewtype-getviewtypecount/) - ListView中的分类getItemViewType和getViewTypeCount的使用详解。 
+ * [Longdw ](http://www.longdw.com/listview-category-getitemviewtype-getviewtypecount/) - ListView中的分类getItemViewType和getViewTypeCount的使用详解。
  * [脉脉不得语](http://www.inferjay.com/) - Android开发周报。
  * [Chad.cym的专栏](http://blog.csdn.net/cym492224103) - Chad.cym的专栏:android5.0新特性分析。
 
  * [搜索最好的 Android 代码——Codota](http://www.imooc.com/article/1086) -  从这里搜索超过七百万精品代码实例——Codota,，不仅只有Github，而且还有知名博客和开发者网站，让你搜索一个东西，不用在找上半天.
- 
+
 ##### GitHub开源库排名一百的简单介绍
 
 1. [react-native](https://github.com/facebook/react-native)这个是 Facebook 在 React.js Conf 2015 大会上推出的基于 JavaScript 的开源框架 React Native, 该框架结合了 Web 应用和 Native 应用的优势, 可以使用 JavaScript 来开发 iOS 和 Android 原生应用
